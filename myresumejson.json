@@ -1,0 +1,21 @@
+{
+    "PersonalContact":{
+        "name":"Govarthanan.D",
+        "contact":82*******0,
+        "mail":th***********a@gmail.com,
+    }
+    "Education":{
+        "Degree":"Bsc Statistics",
+    }
+    "Location":{
+        "City": "Coimbatore",
+        "State": "Tamilnadu",
+    "Experience":{
+        "NSB_BOP":"ManagementTrainee",
+        "SBI_Cards":"OperationExecutive",
+        "SBI_Cards":"MISExecutive",
+        "ToppanMerrill":"DigitalPrintCoordinator",
+    }
+
+
+}
