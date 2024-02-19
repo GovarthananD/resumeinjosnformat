@@ -1,0 +1,16 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+HTTP/1.1: The Legacy Protocol
+Multiplexing
+Header Compression
+Resource Bundling
+
+HTTP/2: The Modern Protocol
+Multiplexing and Stream Prioritization
+Header Compression and Binary Format
+Server Push
+
+2.Write a blog about objects and its internal representation in Javascript
+Internal Representation
+Internally, JavaScript engines use various data structures to represent objects efficiently.
+One common approach is to use hash tables (or hash maps), which provide constant-time access to properties
+and allow for fast insertion and deletion.
